@@ -21,19 +21,4 @@ def star(turtle,size):
 
 star(s,360)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 turtle.done()
